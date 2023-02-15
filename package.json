@@ -15,7 +15,9 @@
     "react-native": "0.70.5",
     "react-native-paper": "^5.2.0",
     "styled-components": "^5.3.6",
-    "expo-font": "~11.0.1"
+    "expo-font": "~11.0.1",
+    "react-native-web": "~0.18.9",
+    "@expo/webpack-config": "^0.17.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
